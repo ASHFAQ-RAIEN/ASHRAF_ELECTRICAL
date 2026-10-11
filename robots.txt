@@ -1,0 +1,5 @@
+# robots.txt for Ashraf Electrical Works
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
